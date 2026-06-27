@@ -1,5 +1,7 @@
 # codecontext
 
+- [ ] Tested results added to description
+
 Generate a lean code map of any repo so Claude can load it as session context instead of re-reading raw files each time.
 
 ## Usage
